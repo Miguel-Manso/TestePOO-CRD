@@ -1,0 +1,10 @@
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\bin\Debug\PessoaPOO.exe.config
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\bin\Debug\PessoaPOO.exe
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\bin\Debug\PessoaPOO.pdb
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.csproj.AssemblyReference.cache
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.Form1.resources
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.Properties.Resources.resources
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.csproj.GenerateResource.cache
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.csproj.CoreCompileInputs.cache
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.exe
+C:\Users\unifafibe.UNIDC_ACD\source\repos\PessoaPOO\PessoaPOO\obj\Debug\PessoaPOO.pdb
